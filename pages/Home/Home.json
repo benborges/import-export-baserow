@@ -1,81 +1,70 @@
 {
+  "gitSyncId": "6533ac8d517d1f5679b748e5_6533ac8d517d1f5679b748e7",
   "unpublishedPage": {
-    "name": "Home",
-    "slug": "home",
+    "isHidden": false,
     "layouts": [
       {
-        "viewMode": false,
         "dsl": {
-          "widgetName": "MainContainer",
-          "topRow": 0,
-          "bottomRow": 1292,
-          "parentRowSpace": 1,
-          "type": "CANVAS_WIDGET",
-          "canExtend": true,
-          "minHeight": 1292,
-          "useAutoLayout": true,
-          "dynamicTriggerPathList": [],
-          "parentColumnSpace": 1,
-          "dynamicBindingPathList": [],
-          "leftColumn": 0,
-          "positioning": "vertical",
           "backgroundColor": "none",
-          "rightColumn": 4896,
-          "snapColumns": 64,
-          "detachFromLayout": true,
-          "widgetId": "0",
+          "bottomRow": 1292,
+          "canExtend": true,
           "containerStyle": "none",
-          "snapRows": 124,
-          "version": 87,
-          "responsiveBehavior": "fill",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
           "flexLayers": [
             {
               "children": [
                 {
-                  "id": "e4e2l8djxb",
-                  "align": "start"
+                  "align": "start",
+                  "id": "e4e2l8djxb"
                 }
               ]
             },
             {
               "children": [
                 {
-                  "id": "1sqgtoz1bv",
-                  "align": "start"
+                  "align": "start",
+                  "id": "1sqgtoz1bv"
                 }
               ]
             },
             {
               "children": [
                 {
-                  "id": "gpzvxaud7m",
-                  "align": "start"
+                  "align": "start",
+                  "id": "gpzvxaud7m"
                 }
               ]
             },
             {
               "children": [
                 {
-                  "id": "dkon9oiom7",
-                  "align": "center"
+                  "align": "center",
+                  "id": "dkon9oiom7"
                 }
               ]
             }
-          ]
-        },
-        "layoutOnLoadActions": [],
-        "layoutOnLoadActionErrors": [],
-        "validOnPageLoadActions": true,
-        "id": "Home",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+          ],
+          "leftColumn": 0,
+          "minHeight": 1292,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "positioning": "vertical",
+          "responsiveBehavior": "fill",
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "useAutoLayout": true,
+          "version": 90,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
       }
     ],
-    "userPermissions": [],
-    "policies": [],
-    "isHidden": false
-  },
-  "deleted": false,
-  "gitSyncId": "6533ac8d517d1f5679b748e5_6533ac8d517d1f5679b748e7"
+    "name": "Home",
+    "slug": "home"
+  }
 }

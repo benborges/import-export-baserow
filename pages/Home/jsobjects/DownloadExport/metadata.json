@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "6533ac8d517d1f5679b748e5_6534972de6049d1188b0ff5b",
+  "id": "Home_DownloadExport",
   "unpublishedCollection": {
     "name": "DownloadExport",
     "pageId": "Home",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Home_DownloadExport",
-  "deleted": false,
-  "gitSyncId": "6533ac8d517d1f5679b748e5_6534972de6049d1188b0ff5b"
+    "variables": []
+  }
 }

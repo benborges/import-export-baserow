@@ -1,11 +1,11 @@
 {
+  "gitSyncId": "6533ac8d517d1f5679b748e5_6537cb81701b44269b39f209",
+  "id": "Home_ImportProcess",
   "unpublishedCollection": {
     "name": "ImportProcess",
     "pageId": "Home",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
     "variables": [
       {
         "name": "rows",
@@ -27,10 +27,6 @@
         "name": "current_status",
         "value": "''"
       }
-    ],
-    "userPermissions": []
-  },
-  "id": "Home_ImportProcess",
-  "deleted": false,
-  "gitSyncId": "6533ac8d517d1f5679b748e5_6537cb81701b44269b39f209"
+    ]
+  }
 }
